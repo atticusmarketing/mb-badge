@@ -13,7 +13,7 @@ function inline_svg( $name ) {
 // Display inline SVG markup
 ?>
 <div class="mb-badge">
-    <a href="https://mockingbird.marketing/"><?php inline_svg( 'mockingbird-footer-logo' );?></a>
+    <a href="https://mockingbird.marketing/"><?php inline_svg( 'mockingbird-footer-logo' ); ?></a>
 </div>
 <?php
 // End Mockingbird Badge Code Snippet
