@@ -1,7 +1,3 @@
-# Mockingbird Marketing Badge Code Snippet
-PHP code snippet to display Mockingbird Marketing SVG logo on WordPress website
-
-```php
 <?php
 // Begin Mockingbird Badge Code Snippet
 // Custom function to display inline SVG
@@ -17,4 +13,3 @@ function inline_svg( $name ) {
 </div>
 <?php
 // End Mockingbird Badge Code Snippet
-```
